@@ -19,8 +19,8 @@ This project is a Flask-based API for classifying emails and masking Personally 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/Shrya1712/EmailClassifier>
-   cd <emailCLassifier>
+   git clone https://github.com/Shrya1712/EmailClassifier
+   cd emailCLassifier
    ```
 
 2. **Create a Virtual Environment**:
